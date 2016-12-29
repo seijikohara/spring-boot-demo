@@ -1,0 +1,1 @@
+INSERT INTO public.todo (id, title, details, finished) VALUES (DEFAULT, 'title1', 'details1', FALSE);
